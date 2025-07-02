@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">RideSheild</string>
+    <string name="lets_go">Lets Go</string>
+    <string name="you_ride_we_protect">You Ride, We Protect</string>
+    <string name="because_not_all_protections_are_thin">Because not all protections are thin</string>
+    <string name="lets_connect">Let\'s Connect</string>
+    <string name="banner">Select any of given way to connect with us.</string>
+    <string name="continue_with_google">Continue with google</string>
+    <string name="continue_with_phone">Continue with phone</string>
+    <string name="accept_the_terms_and_condition">Accept the Terms and Condition</string>
+    <string name="enter_your_correct_phone_number_to_continue_signup_process">Enter your correct phone number to continue signup process.</string>
+    <string name="_91">+91</string>
+    <string name="enter_phone_number">Enter phone number</string>
 </resources>

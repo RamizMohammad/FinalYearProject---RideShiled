@@ -12,6 +12,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.RideSheild">
         <activity
+            android:name=".OtpVerify"
+            android:exported="false" />
+        <activity
+            android:name=".PhoneNumber"
+            android:exported="false" />
+        <activity
+            android:name=".LoginPage"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
@@ -20,6 +29,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
     </application>
 
 </manifest>
