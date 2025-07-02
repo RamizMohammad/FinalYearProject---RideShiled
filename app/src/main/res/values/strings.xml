@@ -11,4 +11,13 @@
     <string name="enter_your_correct_phone_number_to_continue_signup_process">Enter your correct phone number to continue signup process.</string>
     <string name="_91">+91</string>
     <string name="enter_phone_number">Enter phone number</string>
+    <string name="verify_otp">Verify OTP</string>
+    <string name="enter_the_recived_otp_to_get_verified">Enter the received OTP to get verified</string>
+    <string name="get_otp">Get OTP</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="date_of_birth">Date of birth</string>
+    <string name="share_wheels">Share Wheels</string>
+    <string name="tell_us">Tell us</string>
+    <string name="we_need_few_information_about_you_to_make_your_expereince_good">We need few information about you to make your experience good.</string>
+    <string name="select_date_of_birth">Select date of birth</string>
 </resources>

@@ -116,7 +116,8 @@
                 android:background="@drawable/feild_design"
                 android:layout_gravity="center"
                 android:hint="@string/enter_phone_number"
-                android:inputType="number"
+                android:inputType="phone"
+                android:textColorHint="@color/hintColor"
                 android:layout_marginBottom="1dp"
                 android:maxLength="10"
                 android:textSize="20sp"
@@ -143,12 +144,6 @@
             app:layout_constraintStart_toStartOf="parent"
             android:padding="5dp">
 
-            <LinearLayout
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_gravity="center"
-                android:orientation="horizontal">
-
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -156,12 +151,10 @@
                     android:textSize="25sp"
                     android:layout_marginStart="10dp"
                     android:gravity="center"
-                    android:text="Get OTP"
+                    android:text="@string/get_otp"
                     android:textColor="@color/white"
                     android:fontFamily="@font/roboto_slab"
                     android:layout_gravity="center"/>
-
-            </LinearLayout>
 
         </FrameLayout>
 
